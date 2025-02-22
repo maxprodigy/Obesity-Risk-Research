@@ -1,4 +1,4 @@
-### **Obesity Risk Prediction Using Machine Learning**  
+# **Obesity Risk Prediction Using Machine Learning**  
 
 ## **Project Overview**  
 Obesity is a growing public health concern, often linked to serious conditions like cancer, diabetes, and cardiovascular disease. However, in Nigeria, limited access to structured health data makes it difficult to build effective predictive models. This project explores how machine learning can be used to predict obesity risk levels using a dataset that includes demographic, health, and lifestyle factors. The goal was to test different machine learning models and determine the best approach for accurate predictions.  
