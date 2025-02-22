@@ -9,7 +9,7 @@ The [dataset](https://docs.google.com/spreadsheets/d/1KE9EiEeupSl6o1Me1GdlqV4h3V
 - **Medium Risk (1)**  
 - **High Risk (2)**  
 
-The data is synthetic and here is a document that explains the generation of the synthetic dataset: [Link](https://docs.google.com/document/d/1ILz1-6Ef8_rBtbUFg1d3rqaP5tDzqSmBKqNjcanc52c/edit?usp=sharing)
+The data is synthetic and here is a document that explains the generation of the synthetic dataset: [Link](https://docs.google.com/document/d/1ILz1-6Ef8_rBtbUFg1d3rqaP5tDzqSmBKqNjcanc52c/edit?usp=sharing). 
 I preprocessed the data by normalizing numerical features, encoding categorical variables, and splitting it into training (70%), validation (15%), and test (15%) sets.  
 
 ---
@@ -76,7 +76,7 @@ A walkthrough of the project, findings, and insights is available in the video p
 ---
 
 ## **Final Thoughts**  
-This project demonstrated how **both deep learning and classical machine learning** can be applied to predict obesity risk levels with high accuracy. The best model was a **neural network with batch normalization**, but **XGBoost* proved to be a strong alternative, especially for cases where explainability and efficiency matter.   
+This project demonstrated how **both deep learning and classical machine learning** can be applied to predict obesity risk levels with high accuracy. The best model was a **neural network with batch normalization**, but *XGBoost* proved to be a strong alternative, especially for cases where efficiency matter.   
 
 This study provides a foundation for using **AI-driven health solutions** to assess and mitigate obesity risks more effectively.  
 
