@@ -71,7 +71,7 @@ These hyperparameters were optimized to improve model performance and prevent ov
 
 ## **Video Presentation**  
 A walkthrough of the project, findings, and insights is available in the video presentation below:  
-[**Video Link**]  
+[**Video Link**](https://youtu.be/Qr5LTrhK49A) 
 
 ---
 
