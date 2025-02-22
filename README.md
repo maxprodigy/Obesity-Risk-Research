@@ -33,12 +33,12 @@ Six different models were trained and evaluated, including five neural network c
 ## **Which Model Performed Best?**  
 The best-performing model was **Instance 5**, which used a neural network with **RMSprop optimizer, L2 regularization, and Batch Normalization**. It achieved **92.67% accuracy and an AUC score of 0.9965**, making it the most reliable model for obesity risk prediction.  
 
-The **XGBoost model also performed well**, with **90.67% accuracy and an AUC score of 0.9105**, demonstrating that classical machine learning models can still be competitive. However, the deep learning model had a slight edge in terms of generalization and precision.  
+The **XGBoost model also performed well**, with **90.67% accuracy and an AUC score of 0.9105**, showing that classical machine learning models can still be competitive. However, the deep learning model had a slight edge in terms of generalization and precision.  
 
 ---
 
 ## **XGBoost vs Neural Networks – Key Differences**  
-While both approaches performed well, there are some trade-offs to consider:  
+While both approaches performed well, there are some things to consider:  
 - **Neural Networks (Instance 5)** showed better generalization, with higher accuracy and AUC.  
 - *XGBoost* was more efficient and required less fine-tuning compared to the deep learning models.  
 - Regularization techniques played a key role in improving both models, helping to reduce overfitting.  
