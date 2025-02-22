@@ -40,7 +40,7 @@ The **XGBoost model also performed well**, with **90.67% accuracy and an AUC sco
 ## **XGBoost vs Neural Networks – Key Differences**  
 While both approaches performed well, there are some trade-offs to consider:  
 - **Neural Networks (Instance 5)** showed better generalization, with higher accuracy and AUC.  
-- **XGBoost* was computationally more efficient and required less fine-tuning compared to deep learning.  
+- *XGBoost* was more efficient and required less fine-tuning compared to the deep learning models.  
 - Regularization techniques played a key role in improving both models, helping to reduce overfitting.  
 - **XGBoost* was more interpretable, making it a strong alternative for real-world applications where model explainability is crucial.  
 
