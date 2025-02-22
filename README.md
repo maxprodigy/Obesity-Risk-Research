@@ -63,7 +63,9 @@ These hyperparameters were optimized to improve model performance and prevent ov
 ---
 
 ## **Graph of the Best Model (Instance 5)**  
-*I*
+<div align="center">
+  <img src="5th%20Instance.png" width="300" alt="Home Screen"/>
+</div>
 
 ---
 
