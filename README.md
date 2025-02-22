@@ -4,7 +4,7 @@
 Obesity is a growing public health concern, often linked to serious conditions like cancer, diabetes, and cardiovascular disease. However, in Nigeria, limited access to structured health data makes it difficult to build effective predictive models. This project explores how machine learning can be used to predict obesity risk levels using a dataset that includes demographic, health, and lifestyle factors. The goal was to test different machine learning models and determine the best approach for accurate predictions.  
 
 ## **Dataset Used**  
-The dataset consists of key health indicators such as **age, gender, BMI, blood pressure, cholesterol, blood sugar levels, physical activity, and diet quality.** The target variable is obesity risk, categorized into three levels:  
+The [dataset](https://docs.google.com/spreadsheets/d/1KE9EiEeupSl6o1Me1GdlqV4h3VIpD3_lOOwZ0sKcxP8/edit?usp=sharing) consists of key health indicators such as **age, gender, BMI, blood pressure, cholesterol, blood sugar levels, physical activity, and diet quality.** The target variable is obesity risk, categorized into three levels:  
 - **Low Risk (0)**  
 - **Medium Risk (1)**  
 - **High Risk (2)**  
